@@ -77,21 +77,19 @@
 
 // ? 2
 
-// let a = prompt('Как тебя зовут?')
+//     let a = prompt('name')
 
+// if(a === null){
+//   alert('otmena')
+// }else if(a === a){
+//   confirm('sure?')
+//   if(true){
+// alert(a)
+//   }else{
+//  alert('otmena')
+//  }
+// }
 
-// if (a === null) {
-//     alert ('Вы отменили действие')
-// }
-// else if ( a === a ) {
-//     confirm('Вы уверены?')
-// } 
-// else if ( a === a) {
-//     alert('Ваше имя ', a)
-// } 
-// else{   
-//     alert('Попробуйте вспомнить')
-// }
 
 // ? 3
 
@@ -112,3 +110,7 @@
     //  else{
     //     alert('Дурак до 59!!!!')
     //  }
+
+
+
+
